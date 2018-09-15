@@ -1,6 +1,5 @@
 def square_array (array)
   
- array.map { |a| a * a }
- arr=a
- return arr
+ array.each { |a| aa * a }
+
 end
