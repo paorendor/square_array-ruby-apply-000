@@ -1,3 +1,3 @@
 def square_array(array)
- array.each { |a| a*a }
+ array.colelct { |a| a*a }
 end
